@@ -16,7 +16,7 @@
 <a href="https://github.com/ocoyladev" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.credly.com/users/ocoyladev" target="_blank">
+<a href="https://www.credly.com/users/oscar-arnold-coyla-urquizo/badges" target="_blank">
   <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
 </a>
 <a href="mailto:oscarcoyladev@gmail.com">
